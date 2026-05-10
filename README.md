@@ -1,36 +1,20 @@
-# Summer 2026: Multidisciplinary Engineering Bootcamp ⚔️
+# ⚔️ Man VS NIT: Summer 2026
+**The 70-Day Engineering War (May 11 - July 20)**
 
-> **Objective:** 70 Days (May 11 - July 20) of high-intensity development and research while solo on campus. 
-> **Challenge:** Man VS NIT — Balancing SDE, AI, Data Science, and Cybersecurity with strict health & physical discipline.
+One empty campus. One engineer. Total domain mastery.
 
-## 📂 Domain Directories
-Click the links below to view specific projects, code, and logs for each track:
-
-*   🚀 **[SDE Track](./SDE)**: Full-stack development, Auth, System Design, and Scalability.
-*   🤖 **[AI/ML Track](./AI-ML)**: Model training, Inference APIs, and LLM integrations.
-*   📊 **[Data Science Track](./DataScience)**: SQL mastery, EDA, Data Wrangling, and Visualization.
-*   🛡️ **[Cybersecurity Track](./Cybersecurity)**: AppSec, OWASP Top 10, Network Analysis, and Steganography.
-
----
-
-## 📅 Roadmap Overview
-
-| Phase | Focus | Key Outcome |
+## 🔗 Repository Index
+| Repo | Focus | Key Project |
 | :--- | :--- | :--- |
-| **P1: Foundations** | JS/React/OpenCV/CLI | GSIH Preparation Arsenal |
-| **P2: SDE Core** | Node/Postgres/Auth | Secure Notes SaaS |
-| **P3: AI & Data** | ML/Pandas/FastAPI | AI Resume Analyzer |
-| **P4: Security** | AppSec/OWASP/Hardening | Production-Grade Security |
-| **P5: Flagship** | Quantum Visualizer | Research Integration |
+| [**GSIH_2026**](link) | Hackathon Sprint | SQL Engine, MysticLang VM, OMR |
+| [**Summer_2026_SDE**](link) | Product Engineering | Secure Notes SaaS |
+| [**Summer_2026_AI-ML**](link) | Intelligence | AI Resume/ATS Analyzer |
+| [**Summer_2026_DS**](link) | Analytics | Data Wrangling & SQL Engines |
+| [**Summer_2026_Cyber**](link) | Forensics & Sec | Bit Happens & OWASP Hardening |
 
----
+## 🛡️ The Discipline
+- **Health:** Asthma meds (2x daily), Peak Flow monitoring.
+- **Fitness:** 1-hour daily mandatory gym (Heavy Compound Lifts).
+- **Solitude:** 70 days of deep work without external distraction.
 
-## ⚡ The "Man VS NIT" Daily Routine
-- **07:30 - 10:30**: Slot 1: DSA (C++ Private Repo)
-- **10:30 - 12:30**: Slot 2: Quantum Research Internship
-- **13:30 - 17:30**: Slot 3: Domain-Specific Product Building
-- **17:30 - 18:30**: 1-Hour Mandatory Gym (Physical Discipline)
-- **21:00**: Health Sync & Meds (Asthma Management)
-
----
-"Solitude is the laboratory of the engineer."
+> "I am not here to survive. I am here to build."

@@ -1,4 +1,4 @@
-# ⚔️ Man VS NIT: Summer 2026
+# ⚔️ Summer 2026 master Repo
 **The 70-Day Engineering War (May 11 - July 20)**
 
 One empty campus. One engineer. Total domain mastery.
